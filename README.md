@@ -1,4 +1,4 @@
-# 💫 LAMBRANCA Sébastien 
+# 🆙 LAMBRANCA Sébastien 
 web Développement  student<br>WildCodeSchool<br><br>Javascript language<br>React library<br>Live in France
 
 
