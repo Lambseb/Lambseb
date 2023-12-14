@@ -12,8 +12,9 @@ Web Developer <br>WildCodeSchool<br><br>Javascript language<br>React library<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js Version](https://img.shields.io/npm/v/express.svg)
-![Node.js Version](https://img.shields.io/node/v/express.svg)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lambseb&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
