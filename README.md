@@ -2,6 +2,7 @@
 Web Developer <br>WildCodeSchool<br><br>Javascript language<br>React library<br>Live in France
 
 🏆 #First place Hackathon WCS November 2023 team TrueQuiLeaks
+🥈 #Finalist Hackathon WCS L'Oréal 2024 team TrueQuiLeaks
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s%C3%A9bastien-lambranca-46ab7025a/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/.kyzek) 
