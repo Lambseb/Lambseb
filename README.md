@@ -1,7 +1,7 @@
 # 🆙 LAMBRANCA Sébastien 
 Web Developer <br>WildCodeSchool<br><br>Javascript language<br>React library<br>Live in France
 
-🏆 #First place Hackathon WCS November 2023 team TrueQuiLeaks
+🏆 #First place Hackathon WCS November 2023 team TrueQuiLeaks <br>
 🥈 #Finalist Hackathon WCS L'Oréal 2024 team TrueQuiLeaks
 
 ## 🌐 Socials:
