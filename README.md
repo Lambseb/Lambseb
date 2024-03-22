@@ -1,7 +1,9 @@
 
 # 🆙 LAMBRANCA Sébastien 
 ## ➡️ www.sebastien-lambranca.fr/
-Web Developer <br>WildCodeSchool<br><br>Javascript language<br>React library<br>Live in France 
+Web Developer
+
+Live in France 
 
 👨‍💼Business owner @ Lam'digital <br>
 
