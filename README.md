@@ -20,7 +20,12 @@ Live in France
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br>
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-1034a6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-003366?style=for-the-badge&logo=WordPress&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-26619c?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
 
 
 # 📊 GitHub Stats:
